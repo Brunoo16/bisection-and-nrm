@@ -1,0 +1,26 @@
+{
+  "name": "nrm-and-bisection",
+  "version": "1.0.0",
+  "description": "Just an implementation of bisection and Newton-Raphson method for function root finding.",
+  "main": "bnrm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nrm",
+    "bisection",
+    "root",
+    "function"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoBM16/bisection-and-nrm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrunoBM16/bisection-and-nrm/issues"
+  },
+  "dependencies": {
+    "mathjs": "^6.2.5"
+  },
+  "license": "MIT"
+}
